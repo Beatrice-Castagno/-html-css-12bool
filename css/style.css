@@ -2,3 +2,17 @@
   line-height: 200px;
   text-align: center;
 }
+
+.container-nestead div {
+  background-color: #FFC0CB;
+
+}
+
+.col-left, .col-right {
+  padding:5px;
+}
+
+.col-left > div, .col-right > div {
+  border: 1px solid white;
+  background-color: #F07F80;
+}

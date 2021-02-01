@@ -19,10 +19,6 @@
   background-color: rgba(238,1,1, .2);
 }
 
-.debug-nestead {
-  background-color: rgba(238,1,1, .4);
-}
-
 [class*='col-'] {
   float: left;
   border: 1px solid black;
