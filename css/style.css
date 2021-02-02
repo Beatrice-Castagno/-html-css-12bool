@@ -1,11 +1,12 @@
-.container div {
+.container > div {
+  background-color: pink;
   line-height: 200px;
   text-align: center;
+  border: 1px solid black;
 }
 
-.container-nestead div {
+.container-nested > div {
   background-color: #FFC0CB;
-
 }
 
 .col-left, .col-right {
